@@ -1,4 +1,4 @@
-### Installation
+# Installation
 
 To run download mainworking and the three .json files to your computer. Place them all on the same directory and run the mainworking file by typing ./mainworking in the console.
 
